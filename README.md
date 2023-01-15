@@ -1,6 +1,6 @@
  <h2 align="center"> Hi, I'm Thurya 
  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
-<p align="center">A web and mobile developer from Saudi Arabia 🇸🇦 💚</p>
+<p align="center">A web and mobile developer 🇸🇦</p>
 </h2> 
 
 
